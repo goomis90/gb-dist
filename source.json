@@ -1,1 +1,31 @@
-{"name":"gb","identifier":"com.goomis.gb","apps":[],"news":[]}
+{
+  "name": "gb",
+  "identifier": "com.goomis.gb",
+  "apps": [
+    {
+      "name": "goTask",
+      "bundleIdentifier": "com.goomis.gotask",
+      "developerName": "goomis",
+      "subtitle": "Reminders + alarms",
+      "localizedDescription": "Private build.",
+      "iconURL": "https://raw.githubusercontent.com/goomis90/gb-dist/main/icon.png",
+      "tintColor": "BD93F9",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "buildVersion": "4",
+          "date": "2026-11-04T00:08:44Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.3.1-b4/goTask-0.3.1-widgety.ipa",
+          "size": 746935,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goTask 0.3.1 (4)"
+        }
+      ],
+      "version": "0.3.1",
+      "versionDate": "2026-11-04T00:08:44Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.3.1-b4/goTask-0.3.1-widgety.ipa",
+      "size": 746935
+    }
+  ],
+  "news": []
+}
