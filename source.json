@@ -12,6 +12,15 @@
       "tintColor": "BD93F9",
       "versions": [
         {
+          "version": "0.8.1.32",
+          "buildVersion": "32",
+          "date": "2026-11-04T21:52:22Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.8.1.32-b32/goTask-0.8.1.32-widgety.ipa",
+          "size": 1471614,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goTask 0.8.1.32 (32)"
+        },
+        {
           "version": "0.8.0.31",
           "buildVersion": "31",
           "date": "2026-11-04T21:34:10Z",
@@ -91,21 +100,12 @@
           "size": 841409,
           "minOSVersion": "26.0",
           "localizedDescription": "goTask 0.5.0.21 (21)"
-        },
-        {
-          "version": "0.4.2.20",
-          "buildVersion": "20",
-          "date": "2026-11-04T06:03:22Z",
-          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.4.2.20-b20/goTask-0.4.2.20-widgety.ipa",
-          "size": 806013,
-          "minOSVersion": "26.0",
-          "localizedDescription": "goTask 0.4.2.20 (20)"
         }
       ],
-      "version": "0.8.0.31",
-      "versionDate": "2026-11-04T21:34:10Z",
-      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.8.0.31-b31/goTask-0.8.0.31-widgety.ipa",
-      "size": 1469579
+      "version": "0.8.1.32",
+      "versionDate": "2026-11-04T21:52:22Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.8.1.32-b32/goTask-0.8.1.32-widgety.ipa",
+      "size": 1471614
     }
   ],
   "news": []
