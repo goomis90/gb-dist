@@ -3,7 +3,7 @@
   "identifier": "com.goomis.gb",
   "apps": [
     {
-      "name": "goTask",
+      "name": "goodo",
       "bundleIdentifier": "com.goomis.gotask",
       "developerName": "goomis",
       "subtitle": "Reminders + alarms",
@@ -11,6 +11,15 @@
       "iconURL": "https://raw.githubusercontent.com/goomis90/gb-dist/main/icon.png",
       "tintColor": "BD93F9",
       "versions": [
+        {
+          "version": "0.9.4.39",
+          "buildVersion": "39",
+          "date": "2026-11-05T18:48:59Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.9.4.39-b39/goTask-0.9.4.39-widgety.ipa",
+          "size": 1772949,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goodo 0.9.4.39 (39)"
+        },
         {
           "version": "0.9.3.38",
           "buildVersion": "38",
@@ -91,21 +100,12 @@
           "size": 1450529,
           "minOSVersion": "26.0",
           "localizedDescription": "goTask 0.7.2.30 (30)"
-        },
-        {
-          "version": "0.7.1.29",
-          "buildVersion": "29",
-          "date": "2026-11-04T18:55:48Z",
-          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.7.1.29-b29/goTask-0.7.1.29-widgety.ipa",
-          "size": 1429931,
-          "minOSVersion": "26.0",
-          "localizedDescription": "goTask 0.7.1.29 (29)"
         }
       ],
-      "version": "0.9.3.38",
-      "versionDate": "2026-11-04T23:43:15Z",
-      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.9.3.38-b38/goTask-0.9.3.38-widgety.ipa",
-      "size": 1770510
+      "version": "0.9.4.39",
+      "versionDate": "2026-11-05T18:48:59Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.9.4.39-b39/goTask-0.9.4.39-widgety.ipa",
+      "size": 1772949
     }
   ],
   "news": []
