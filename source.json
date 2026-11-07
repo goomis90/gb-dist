@@ -12,6 +12,15 @@
       "tintColor": "BD93F9",
       "versions": [
         {
+          "version": "0.22.0.99",
+          "buildVersion": "99",
+          "date": "2026-11-07T17:42:36Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.22.0.99-b99/goTask-0.22.0.99-widgety.ipa",
+          "size": 3320514,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goodo 0.22.0.99 (99)"
+        },
+        {
           "version": "0.21.2.93",
           "buildVersion": "93",
           "date": "2026-11-07T00:11:49Z",
@@ -91,21 +100,12 @@
           "size": 2884284,
           "minOSVersion": "26.0",
           "localizedDescription": "goodo 0.19.1.85 (85)"
-        },
-        {
-          "version": "0.19.0.84",
-          "buildVersion": "84",
-          "date": "2026-11-06T22:15:53Z",
-          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.19.0.84-b84/goTask-0.19.0.84-widgety.ipa",
-          "size": 2884961,
-          "minOSVersion": "26.0",
-          "localizedDescription": "goodo 0.19.0.84 (84)"
         }
       ],
-      "version": "0.21.2.93",
-      "versionDate": "2026-11-07T00:11:49Z",
-      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.21.2.93-b93/goTask-0.21.2.93-widgety.ipa",
-      "size": 3139821
+      "version": "0.22.0.99",
+      "versionDate": "2026-11-07T17:42:36Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.22.0.99-b99/goTask-0.22.0.99-widgety.ipa",
+      "size": 3320514
     }
   ],
   "news": []
