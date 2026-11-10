@@ -117,6 +117,15 @@
       "tintColor": "FF79C6",
       "versions": [
         {
+          "version": "0.4.1.7",
+          "buildVersion": "7",
+          "date": "2026-11-10T22:31:24Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.4.1.7/goonote-0.4.1.7.ipa",
+          "size": 1595625,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goonote 0.4.1.7 (7)"
+        },
+        {
           "version": "0.4.0.6",
           "buildVersion": "6",
           "date": "2026-11-10T22:27:02Z",
@@ -162,10 +171,10 @@
           "localizedDescription": "goonote 0.1.0.2 (2)"
         }
       ],
-      "version": "0.4.0.6",
-      "versionDate": "2026-11-10T22:27:02Z",
-      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.4.0.6/goonote-0.4.0.6.ipa",
-      "size": 1585155
+      "version": "0.4.1.7",
+      "versionDate": "2026-11-10T22:31:24Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.4.1.7/goonote-0.4.1.7.ipa",
+      "size": 1595625
     }
   ],
   "news": []
