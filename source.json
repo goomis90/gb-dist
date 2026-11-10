@@ -106,6 +106,30 @@
       "versionDate": "2026-11-10T21:09:31Z",
       "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/v0.26.0.133-b133/goTask-0.26.0.133-widgety.ipa",
       "size": 4417666
+    },
+    {
+      "name": "goonote",
+      "bundleIdentifier": "com.goomis.goonote",
+      "developerName": "goomis",
+      "subtitle": "Markdown notes",
+      "localizedDescription": "Private build.",
+      "iconURL": "https://raw.githubusercontent.com/goomis90/gb-dist/main/goonote-icon.png",
+      "tintColor": "FF79C6",
+      "versions": [
+        {
+          "version": "0.1.0.2",
+          "buildVersion": "2",
+          "date": "2026-11-10T21:10:19Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.1.0.2/goonote-0.1.0.2.ipa",
+          "size": 458943,
+          "minOSVersion": "26.0",
+          "localizedDescription": "goonote 0.1.0.2 (2)"
+        }
+      ],
+      "version": "0.1.0.2",
+      "versionDate": "2026-11-10T21:10:19Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.1.0.2/goonote-0.1.0.2.ipa",
+      "size": 458943
     }
   ],
   "news": []
