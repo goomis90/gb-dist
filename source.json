@@ -222,6 +222,15 @@
       "tintColor": "72F1B8",
       "versions": [
         {
+          "version": "0.1.0.7",
+          "buildVersion": "7",
+          "date": "2026-11-22T22:34:50Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goolist-v0.1.0.7/goolist-0.1.0.7.ipa",
+          "size": 725475,
+          "minOSVersion": "18.0",
+          "localizedDescription": "goolist 0.1.0.7 (7)"
+        },
+        {
           "version": "0.1.0.6",
           "buildVersion": "6",
           "date": "2026-11-22T22:23:34Z",
@@ -231,10 +240,10 @@
           "localizedDescription": "goolist 0.1.0.6 (6)"
         }
       ],
-      "version": "0.1.0.6",
-      "versionDate": "2026-11-22T22:23:34Z",
-      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goolist-v0.1.0.6/goolist-0.1.0.6.ipa",
-      "size": 725474
+      "version": "0.1.0.7",
+      "versionDate": "2026-11-22T22:34:50Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goolist-v0.1.0.7/goolist-0.1.0.7.ipa",
+      "size": 725475
     }
   ],
   "news": []
