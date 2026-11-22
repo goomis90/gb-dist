@@ -211,6 +211,30 @@
       "versionDate": "2026-11-13T22:08:06Z",
       "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goonote-v0.7.1.22/goonote-0.7.1.22.ipa",
       "size": 1828598
+    },
+    {
+      "name": "goolist",
+      "bundleIdentifier": "com.goomis.goolist",
+      "developerName": "goomis",
+      "subtitle": "Shopping list",
+      "localizedDescription": "Private build.",
+      "iconURL": "https://raw.githubusercontent.com/goomis90/gb-dist/main/goolist-icon.png",
+      "tintColor": "72F1B8",
+      "versions": [
+        {
+          "version": "0.1.0.6",
+          "buildVersion": "6",
+          "date": "2026-11-22T22:23:34Z",
+          "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goolist-v0.1.0.6/goolist-0.1.0.6.ipa",
+          "size": 725474,
+          "minOSVersion": "18.0",
+          "localizedDescription": "goolist 0.1.0.6 (6)"
+        }
+      ],
+      "version": "0.1.0.6",
+      "versionDate": "2026-11-22T22:23:34Z",
+      "downloadURL": "https://github.com/goomis90/gb-dist/releases/download/goolist-v0.1.0.6/goolist-0.1.0.6.ipa",
+      "size": 725474
     }
   ],
   "news": []
